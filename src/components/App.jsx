@@ -1,11 +1,12 @@
 import Form from "./Form";
+
 function App() {
   return (
-    <div>
-      <h2>Service Form</h2>
+    <main>
+      <h1>Form Storage</h1>
       <Form />
-    </div>
+    </main>
   );
 }
 
-export default App
+export default App;
